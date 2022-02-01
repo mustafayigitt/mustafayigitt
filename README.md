@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue.js & JavaScript**
 
-- 👯 I’m looking to collaborate on **android development**
+- 🤝 I’m looking to collaborate on **android development**
 
 - ✍️ I'm sharing my articles on <a href="https://mustafayigitt.medium.com/" target="_blank">Medium</a>. Currently I'm author of the <a href="https://blog.kotlin-academy.com/" target="_blank">Kt. Academy</a> and <a href="https://proandroiddev.com/" target="_blank">ProAndroidDev</a>
 

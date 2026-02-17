@@ -7,13 +7,11 @@
 <a href="https://medium.com/@mustafayigitt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafayigitt" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **native android apps**
+- 🔭 I’m currently working on **Native Android and Kotlin Multiplatform apps**
 
-- 🌱 I’m currently learning **Vue.js & JavaScript**
+- 🤝 I’m looking to collaborate on **Android Development**
 
-- 🤝 I’m looking to collaborate on **android development**
-
-- ✍️ I'm sharing my articles on <a href="https://mustafayigitt.medium.com/" target="_blank">Medium</a>. Currently I'm author of the <a href="https://blog.kotlin-academy.com/" target="_blank">Kt. Academy</a> and <a href="https://proandroiddev.com/" target="_blank">ProAndroidDev</a>
+- ✍️ I'm sharing my articles on <a href="https://mustafayigitt.medium.com/" target="_blank">Medium</a>
 
 - 💬 Ask me about **Software Development, Android Development or whatever. I'm happy to help**
 
